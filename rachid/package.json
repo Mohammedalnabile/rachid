@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "cd my-react-app && npm run dev",
+    "build": "cd my-react-app && npm run build",
+    "preview": "cd my-react-app && npm run preview",
+    "install": "cd my-react-app && npm install"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.26",
+    "lucide-react": "^0.561.0"
+  }
+}
